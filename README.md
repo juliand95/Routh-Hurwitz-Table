@@ -1,4 +1,3 @@
-
 # Criterio de Estabilidad de Routh-Hurwitz
 
 ##### ¿En que consiste el criterio de Routh Hurwitz?
@@ -12,4 +11,7 @@ Este programa sin interfaz grafica genera la tabla de **Routh-Hurwitz** para un 
 - Si se genera una fila de Ceros.
 
 ###### Ejemplo:
-![example](https://drive.google.com/file/d/1jGcrDkkHJkpwm1WL5Ly_MnhkKGdpKrqW/view?usp=sharing "example")
+![example](http://drive.google.com/uc?export=view&id=1jGcrDkkHJkpwm1WL5Ly_MnhkKGdpKrqW)
+
+#### Utilizando el programa
+![example2](http://drive.google.com/uc?export=view&id=1Zqbxf6oDMuEdICC9Tg10nSagaKjNs9g1)
